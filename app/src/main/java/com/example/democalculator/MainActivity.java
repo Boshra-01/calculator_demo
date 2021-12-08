@@ -134,8 +134,7 @@ public class MainActivity extends AppCompatActivity {
         if (c == '/'){
             answer = number1 / number2;
             s = String.valueOf(answer);
-            result.setText(s);
-            c= '1' 
+            result.setText(s); 
             c = '0';
 
         }
