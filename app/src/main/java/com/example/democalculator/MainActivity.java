@@ -135,7 +135,9 @@ public class MainActivity extends AppCompatActivity {
             answer = number1 / number2;
             s = String.valueOf(answer);
             result.setText(s);
+            c= '1' 
             c = '0';
+
         }
     }}
 }
